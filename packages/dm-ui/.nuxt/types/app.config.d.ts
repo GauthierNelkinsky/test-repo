@@ -6,7 +6,7 @@ import cfg1 from "/home/runner/work/dm-frontend-pwa/dm-frontend-pwa/src/node_mod
 
 declare const inlineConfig = {
   "nuxt": {
-    "buildId": "7e962893-bd70-45a5-96ca-505a58bbdbad"
+    "buildId": "15358326-bffd-4bad-83e7-f00d8703a490"
   },
   "ui": {
     "primary": "green",
