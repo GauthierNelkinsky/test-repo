@@ -1,4 +1,4 @@
 # pnpm-workspace.yaml
 packages:
   - packages/**
-  - test-iso/**
+  - test-app/**
